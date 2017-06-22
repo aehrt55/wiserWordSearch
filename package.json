@@ -8,5 +8,9 @@
     "start": "node index.js"
   },
   "author": "xin",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.0.2",
+    "mocha": "^3.4.2"
+  }
 }
